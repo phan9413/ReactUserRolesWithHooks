@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.login-holder {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+}
+.m-auto {
+  width: 50%;
+  margin: auto;
+}
+.flex {
+  display: flex;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.mb-1 {
+  margin-bottom: 2rem;
+}
+.perm-holder {
+  white-space: pre-line;
+}
+
+.error-msg {
+  color: rgb(202, 47, 47);
+}
+
+.align-center {
+  align-items: center;
+}
+.header {
+  padding: 0 1rem;
+  border: 1px solid gray;
+}
